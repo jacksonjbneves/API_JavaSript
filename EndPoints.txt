@@ -1,0 +1,8 @@
+
+http://localhost:3000/pessoas
+
+GET /pessoas: Lista todas as pessoas.
+GET /pessoa?id=1: Busca uma pessoa por ID.
+POST /pessoa: Adiciona uma nova pessoa.
+PUT /pessoa?id=1: Atualiza uma pessoa existente.
+DELETE /pessoa?id=1: Deleta uma pessoa.
